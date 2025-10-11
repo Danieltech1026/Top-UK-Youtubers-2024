@@ -97,8 +97,7 @@ Some of the data visuals that may be appropriate for answering our analytical qu
 
 ### 🧠 Dashboard Mockup Preview
 
-**Dashboard-Mockup:** ![Dashboard Mockup]()
-> Example: `![Dashboard Mockup](path-to-your-image.png)`
+**Dashboard-Mockup:** ![Dashboard Mockup](assets/images/dashboard_mockup.png)
 
 
 # 🛠️ Tools & Technologies
