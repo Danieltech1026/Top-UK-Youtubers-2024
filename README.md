@@ -211,8 +211,6 @@ Below are the key DAX measures created for this project to calculate and visuali
 
 ---
 
-## 1. 📊 Total Subscribers (M)
-
 Total Subscribers (M) =
 VAR million = 1000000
 VAR sumOfSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
