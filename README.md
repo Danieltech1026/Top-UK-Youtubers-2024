@@ -109,3 +109,100 @@ Some of the data visuals that may be appropriate for answering our analytical qu
 | **GitHub**       | Hosting project documentation and version control |
 | **Mokkup AI**    | Designing the wireframe/mockup of the dashboard |
 
+
+# ⚙️ Pseudocode
+
+### 🧭 General Approach
+
+The following outlines the step-by-step process for creating this solution from start to finish:
+
+1. 📥 **Get the data**  
+2. 📊 **Explore the data in Excel**  
+3. 🧹 **Clean the data** using Excel  
+4. 🧪 **Test the data** in Excel to ensure accuracy  
+5. 📈 **Visualize the data** in Power BI  
+6. 🔍 **Generate insights** and key findings based on visual analysis  
+7. 📝 **Write documentation and commentary** explaining the process and results  
+8. 🌐 **Publish the final output** (data and report) on GitHub Pages  
+
+---
+
+# 🔍 Data Exploration Notes
+
+### 🧾 Overview
+
+This stage involves scanning the dataset for **errors, inconsistencies, missing values, or unusual characters** that could affect analysis.
+
+### 🧠 Initial Observations
+
+- There are **at least 4 relevant columns** containing all the necessary data for this a
+
+
+# 🧹 Data Cleaning
+
+### 🎯 Objective
+
+The goal of this stage is to **refine the dataset** so it’s well-structured, consistent, and ready for accurate analysis.
+
+---
+
+## ✅ Expected Clean Data Format
+
+The cleaned dataset should meet the following **criteria and constraints**:
+
+- Only **relevant columns** are retained.  
+- All **data types** are appropriate for their contents.  
+- No column should contain **null or missing values**, ensuring completeness and reliability.
+
+---
+
+### 📏 Cleaned Dataset Constraints
+
+| 🧩 **Property**       | 📋 **Description** |
+|------------------------|--------------------|
+| **Number of Rows**     | 100 |
+| **Number of Columns**  | 4 |
+
+---
+
+## 🧠 Data Cleaning Steps
+
+To prepare the dataset for analysis, the following steps will be performed:
+
+1. 🗑️ **Remove unnecessary columns** — keep only the required fields for analysis.  
+2. 🔡 **Extract YouTube channel names** from the first column using text parsing or formula logic.  
+3. 🏷️ **Rename columns** for clarity and consistency across the dataset.  
+
+---
+
+After these steps, the dataset will be **structured, clean, and ready** for visualization in Power BI.
+
+# 📊 Visualization
+
+### 🧾 Results
+
+#### 💻 Dashboard Overview
+
+Below is the Power BI dashboard created for this project:
+
+---
+
+### 🖼️ Dashboard Preview
+
+**GIF of Power BI Dashboard:**  
+*(Insert your GIF or image link here)*  
+> Example:  
+> `![Power BI Dashboard](path-to-your-dashboard.gif)`
+
+---
+
+### 📈 Description
+
+This dashboard showcases the **Top UK YouTubers in 2024**, highlighting key metrics such as:
+
+- 👥 **Subscribers**
+- 👀 **Total Views**
+- 🎥 **Number of Videos**
+- 💬 **Engagement Metrics**
+
+It provides a **clear visual summary** of YouTube performance, helping the marketing team identify the most influential creators to collaborate with.
